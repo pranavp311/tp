@@ -9,7 +9,7 @@ title: Developer Guide
 
 ## **Acknowledgements**
 
-* _{List the sources of reused or adapted ideas, code, documentation, and third-party libraries here, with links to the originals.}_
+* This practice branch follows the [SE-EDU field-removal tutorial](https://se-education.org/guides/tutorials/ab3RemovingFields.html), with Codex assistance.
 
 --------------------------------------------------------------------------------------------------------------------
 
